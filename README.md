@@ -1,1 +1,1 @@
-# House-Price-Prediction-System
+# Heart Disease Prediction System
